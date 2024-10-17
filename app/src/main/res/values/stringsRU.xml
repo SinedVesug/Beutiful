@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helloRU">Привет мир!</string>
+    <string name="buttonRU">Кнопка</string>
+    <string-array name="languagesRU">
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Немецкий</item>
+    </string-array>
+</resources>
